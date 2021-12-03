@@ -72,6 +72,7 @@ int main()
     return 0;
 }
 /*
+// using only one map
 int r=s.size(),ans=INT_MAX,idx=-1;
          unordered_map<char, int> m;
          for(auto i: t)
