@@ -1,8 +1,6 @@
 
 #include<bits/stdc++.h>
 using namespace std;
-
-
 class Solution {
 public:
     int wateringPlants(vector<int>& plants, int capacity) {
