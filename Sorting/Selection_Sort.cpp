@@ -15,8 +15,8 @@ void selection_Sort(vector<int>&arr){
         arr[i] = temp;
 
         for(auto i : arr){
-        cout<<i<<" ";
-    }
+            cout<<i<<" ";
+        }
         cout<<endl;
     }
 }
